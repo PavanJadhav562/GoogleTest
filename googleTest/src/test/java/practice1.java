@@ -7,5 +7,6 @@ public class practice1
     {
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.google.com/");
+        System.out.println("hello pavan ");
     }
 }
